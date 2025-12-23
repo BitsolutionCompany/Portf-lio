@@ -1,0 +1,27 @@
+/* Tablet */
+@media (min-width: 768px){
+    .container{
+      grid-template-areas:
+        "header header"
+        "navbar navbar"
+        "main main"
+        "footer footer";
+    }
+  }
+  @media only screen and (max-width: 800px){
+    .header h3{
+        font-size: 1rem !important;
+    }
+  }
+  /* Desktop */
+  @media (min-width: 1024px){
+    .container{
+      grid-template-areas:
+        "header header header"
+        "navbar navbar navbar"
+        "main main main"
+        "footer footer footer";
+        grid-template-columns: repeat(3, 1fr);
+    }
+  }
+  
