@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="500"
+   height="500"
+   viewBox="0 0 132.29166 132.29167"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="logo.svg"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   inkscape:export-filename="logo.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.1964247"
+     inkscape:cx="231.52314"
+     inkscape:cy="412.06104"
+     inkscape:window-width="1920"
+     inkscape:window-height="1048"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient66"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#999b9b;stop-opacity:0.18431402;"
+         offset="0.45269957"
+         id="stop66" />
+      <stop
+         style="stop-color:#999b9b;stop-opacity:0;"
+         offset="0.79770207"
+         id="stop67" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient64"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="1"
+         id="stop64" />
+      <stop
+         style="stop-color:#dbdee3;stop-opacity:0;"
+         offset="1"
+         id="stop65" />
+    </linearGradient>
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect5"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <filter
+       inkscape:label="Pixellize"
+       inkscape:menu="Pixel Tools"
+       inkscape:menu-tooltip="Reduce or remove antialiasing around shapes"
+       style="color-interpolation-filters:sRGB;"
+       id="filter28"
+       x="-0.025163832"
+       y="-0.055600059"
+       width="1.0503277"
+       height="1.1112001">
+      <feConvolveMatrix
+         order="3 3"
+         kernelMatrix="0 -0.15 0 -0.15 1.6 -0.15 0 -0.15 0"
+         divisor="1"
+         in="SourceGraphic"
+         targetX="1"
+         targetY="1"
+         id="feConvolveMatrix28"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix47" />
+      <feMorphology
+         id="feMorphology47"
+         radius="4.3"
+         in="fbSourceGraphicAlpha"
+         result="result91" />
+      <feComposite
+         id="feComposite47"
+         operator="out"
+         in="fbSourceGraphic"
+         in2="result91" />
+      <feGaussianBlur
+         id="feGaussianBlur47"
+         result="result0"
+         stdDeviation="1" />
+      <feDiffuseLighting
+         id="feDiffuseLighting47"
+         diffuseConstant="1">
+        <feDistantLight
+           id="feDistantLight47"
+           elevation="50"
+           azimuth="225" />
+      </feDiffuseLighting>
+      <feBlend
+         id="feBlend47"
+         mode="multiply"
+         in2="fbSourceGraphic" />
+      <feGaussianBlur
+         id="feGaussianBlur48"
+         result="result10"
+         stdDeviation="0.5" />
+      <feComposite
+         id="feComposite48"
+         operator="in"
+         in="result10"
+         in2="fbSourceGraphicAlpha"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix48" />
+      <feColorMatrix
+         id="feColorMatrix49"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1000 -500 "
+         in="fbSourceGraphic" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient64"
+       id="linearGradient65"
+       x1="132.14166"
+       y1="66.308578"
+       x2="-0.15000509"
+       y2="66.308578"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0.28080074,-0.13875012)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient66"
+       id="linearGradient67"
+       x1="0.37022239"
+       y1="66.378844"
+       x2="132.66189"
+       y2="66.378844"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:url(#linearGradient65);fill-rule:nonzero;stroke:none;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
+       id="rect64"
+       width="131.99167"
+       height="131.99167"
+       x="0.28079629"
+       y="0.17399593" />
+    <rect
+       style="fill:url(#linearGradient67);fill-opacity:0.184314;stroke:none;stroke-width:1.73;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="rect62"
+       width="132.29167"
+       height="132.29167"
+       x="0.37022239"
+       y="0.23300833"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.1667px;line-height:0;font-family:'Adwaita Mono';-inkscape-font-specification:'Adwaita Mono, @opsz=32';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'opsz' 32;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#4d4d4d;fill-opacity:1;stroke:#4d4d4d;stroke-width:0.3;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+       x="36.410393"
+       y="70.583328"
+       id="text64"
+       transform="scale(0.99736814,1.0026388)"><tspan
+         sodipodi:role="line"
+         id="tspan64"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.1667px;line-height:0px;font-family:'Adwaita Mono';-inkscape-font-specification:'Adwaita Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4d4d4d;fill-opacity:1;stroke:#4d4d4d;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         x="36.410393"
+         y="70.583328">&lt;t&gt;</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.1667px;line-height:0;font-family:'Adwaita Mono';-inkscape-font-specification:'Adwaita Mono, @opsz=32';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'opsz' 32;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#217821;fill-opacity:1;fill-rule:nonzero;stroke:#338000;stroke-width:0;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+       x="36.413296"
+       y="70.589882"
+       id="text2"
+       transform="scale(0.99736814,1.0026388)"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.1667px;line-height:0px;font-family:'Adwaita Mono';-inkscape-font-specification:'Adwaita Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#217821;fill-opacity:1;fill-rule:nonzero;stroke:#338000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         x="36.413296"
+         y="70.589882">&lt;t&gt;</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.4583px;line-height:0;font-family:'Adwaita Mono';-inkscape-font-specification:'Adwaita Mono, @opsz=32';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'opsz' 32;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#338000;fill-opacity:1;stroke:#338000;stroke-width:1.73;stroke-linecap:round;stroke-opacity:1"
+       x="59.515736"
+       y="65.84227"
+       id="text4"><tspan
+         sodipodi:role="line"
+         id="tspan4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.4583px;line-height:0px;font-family:'Adwaita Mono';-inkscape-font-specification:'Adwaita Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#338000;fill-opacity:1;stroke:#338000;stroke-width:1.73;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         x="59.515736"
+         y="65.84227">.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.4583px;line-height:0;font-family:'Adwaita Mono';-inkscape-font-specification:'Adwaita Mono, @opsz=32';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'opsz' 32;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#4d4d4d;fill-opacity:1;stroke:#4d4d4d;stroke-width:1.73;stroke-linecap:round"
+       x="87.571815"
+       y="73.529732"
+       id="text5"><tspan
+         sodipodi:role="line"
+         id="tspan5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.4583px;line-height:0px;font-family:'Adwaita Mono';-inkscape-font-specification:'Adwaita Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4d4d4d;fill-opacity:1;stroke:#4d4d4d;stroke-width:1.73;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         x="87.571815"
+         y="73.529732">DEV</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#4d4d4d;stroke-width:1.958;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5"
+       width="112.16489"
+       height="46.69149"
+       x="8.6010637"
+       y="41.952126"
+       sodipodi:type="rect"
+       d="M 13.340425,41.952126 H 116.02659 c 2.6256,0 4.73936,2.113755 4.73936,4.739361 v 37.212767 c 0,2.625606 -2.11376,4.739362 -4.73936,4.739362 H 13.340425 c -2.625606,0 -4.7393613,-2.113756 -4.7393613,-4.739362 V 46.691487 c 0,-2.625606 2.1137553,-4.739361 4.7393613,-4.739361 z"
+       ry="4.7393618"
+       transform="translate(1.4042553,-1.2287234)"
+       inkscape:path-effect="#path-effect5" />
+    <circle
+       id="path67"
+       style="fill:#999b9b;stroke:#338000;stroke-width:0.264583"
+       cx="170.50279"
+       cy="115.21655"
+       r="0.41749391" />
+    <path
+       style="fill:#999b9b;fill-opacity:0.184314;fill-rule:nonzero;stroke:#338000;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
+       id="path68"
+       d="m 164.1791,113.18312 c -0.28445,0.0591 -0.56938,0.11521 -0.85536,0.16656 -0.22669,0.0394 -0.11301,0.02 -0.34104,0.0584 0,0 0.16615,0.9861 0.16615,0.9861 v 0 c 0.2351,-0.0396 0.11789,-0.0195 0.35165,-0.0602 0.27904,-0.0501 0.55742,-0.10327 0.83456,-0.16305 z" />
+  </g>
+</svg>

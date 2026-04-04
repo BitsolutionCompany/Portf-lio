@@ -28,7 +28,7 @@ body{
     justify-content: space-between;
     gap: 1rem;
     padding: 1.5rem;
-    background-color: #154854;
+    background-color: #c0c0c0;
     color: #fff;
     font-size: 1.5rem;
     font-weight: 600;
@@ -41,7 +41,7 @@ body{
     text-align: center;
 }
 header .logo img{
-    max-height: 60px;
+    max-height: 150px;
     width: auto;
 }
 .navbar{
@@ -71,7 +71,7 @@ header .logo img{
     grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
     gap: 1.5rem;
     min-height: 100px;
-    background-color: #c6c6c6;
+    background-color: blue;
 }
 .about{
     display: flex;
