@@ -3,48 +3,97 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>BITSOLUTION COMPANY</title>
+    <title>BITSOLUTION COMPANY | Tech Solutions</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="css/style.css">
-    <link rel="stylesheet" href="css/responsive.css">
+    <link rel="stylesheet" type="text/css" href="css/responsive.css">
     <script src="js/events.js" defer></script>
 </head>
 <body>
-    <div class="container">
-        <header class="header">
-            <div class="logo">
-                <img src="images/logosem fundo.svg" alt="logo">
+
+    <header class="header">
+        <div class="logo">
+            <span class="logo-icon">&lt;t&gt;</span>
+            <span class="logo-text">.<span class="tech-dot">DEV</span></span>
+        </div>
+        <nav class="navbar">
+            <a href="#inicio" class="nav-link active">Início</a>
+            <a href="#about" class="nav-link">Sobre</a>
+            <a href="#projects" class="nav-link">Soluções</a>
+            <a href="#contato" class="btn-cta-nav">Falar com Consultor</a>
+        </nav>
+    </header>
+
+    <main class="main-container">
+        
+        <section class="hero" id="inicio">
+            <div class="hero-content">
+                <span class="hero-subtitle">Inovação Tecnológica de Ponta</span>
+                <h1 class="hero-title">Transformamos Bits em <span class="text-gradient">Soluções Reais</span>.</h1>
+                <p class="hero-description">Na Bitsolution, desenvolvemos ecossistemas digitais que impulsionam negócios. Do código à nuvem, somos seu parceiro estratégico na era digital.</p>
+                <div class="hero-btns">
+                    <a href="#projects" class="btn-primary">Explorar Soluções</a>
+                    <a href="#about" class="btn-secondary">Nossa Filosofia</a>
+                </div>
             </div>
-            <h3>&lt;t&gt;.dev</h3>
-        </header>
-        <nav class="navbar"></nav>
-        <main class="main">
-            <section class="section" id="projects">
-                <section class="about">
+            <div class="hero-visual">
+                <div class="tech-sphere"></div>
+            </div>
+        </section>
 
-                </section>
-                <section class="projects">
-                    <div class="project-card">
-                        <div class="card-image" style="background: #ccc; height: 180px;"></div>
-                        <div class="card-content" style="padding: 1.5rem;">
-                            <h4>Nome do Projeto</h4>
-                            <p>Uma breve descrição do que foi feito nesta solução tecnológica.</p>
-                            <a href="#" class="btn-card">Ver Mais</a>
-                        </div>
-                    </div>
-                     <div class="project-card">
-                        <div class="card-image" style="background: #ccc; height: 180px;"></div>
-                        <div class="card-content" style="padding: 1.5rem;">
-                            <h4>Nome do Projeto</h4>
-                            <p>Uma breve descrição do que foi feito nesta solução tecnológica.</p>
-                            <a href="#" class="btn-card">Ver Mais</a>
-                        </div>
-                    </div>
-                </section>
-            </section>
-        </main>
-        <footer class="footer">
+        <section class="about" id="about">
+            <div class="about-grid">
+                <div class="about-info">
+                    <h2 class="section-title">Quem Somos</h2>
+                    <p>Somos uma tech company focada na arquitetura de software robusta e na experiência do usuário. Nossa missão é simplificar a complexidade tecnológica para entregar resultados excepcionais.</p>
+                </div>
+                <div class="about-stats card-glass">
+                    <div class="stat-item"><span>10+</span> Anos no Mercado</div>
+                    <div class="stat-item"><span>50+</span> Projetos Entregues</div>
+                    <div class="stat-item"><span>24/7</span> Suporte Técnico</div>
+                </div>
+            </div>
+        </section>
 
-        </footer>
-    </div>
+        <section class="projects" id="projects">
+            <h2 class="section-title text-center">Nossas Especialidades</h2>
+            <div class="projects-grid">
+                
+                <div class="project-card card-glass">
+                    <div class="card-icon">🚀</div>
+                    <h3>Desenvolvimento Web</h3>
+                    <p>Sistemas escaláveis e SPAs modernas com as tecnologias mais recentes do mercado.</p>
+                    <a href="#" class="card-link">Saiba mais →</a>
+                </div>
+
+                <div class="project-card card-glass">
+                    <div class="card-icon">📱</div>
+                    <h3>Mobile Apps</h3>
+                    <p>Aplicativos nativos e híbridos focados na melhor usabilidade e performance.</p>
+                    <a href="#" class="card-link">Saiba mais →</a>
+                </div>
+
+                <div class="project-card card-glass">
+                    <div class="card-icon">☁️</div>
+                    <h3>Cloud & DevOps</h3>
+                    <p>Infraestrutura em nuvem segura, deploy contínuo e monitoramento eficiente.</p>
+                    <a href="#" class="card-link">Saiba mais →</a>
+                </div>
+
+            </div>
+        </section>
+
+    </main>
+
+    <footer class="footer">
+        <div class="footer-content">
+            <p>&copy; 2023 BIT<span class="tech-dot">SOLUTION</span> COMPANY. Todos os direitos reservados.</p>
+            <div class="social-links">
+                <a href="https://linkedin.com/in/wesley-silva-8b18762a4">LinkedIn</a>
+                <a href="https://github.com/BitsolutionCompany">GitHub</a>
+            </div>
+        </div>
+    </footer>
+
 </body>
 </html>
